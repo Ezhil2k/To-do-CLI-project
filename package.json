@@ -1,0 +1,14 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "todo.js",
+  "scripts": {
+    "test": "console.log(\"file open\")"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
